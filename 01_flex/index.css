@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(183, 255, 205);
+}
+h1{
+    text-align: center;
+}
+.hijo{
+    width: 120px;
+    height: 120px;
+    border: 2px  solid rgb(0, 0, 0) ;
+    background-color: rgb(223, 175, 207);
+    color: rgb(131, 12, 12);
+    font-size: 35px;
+    text-align: center;
+   /* margin: 15px; */
+    
+}
+.padre{
+    display: flex;
+    /*flex -direction; column; en columna */
+    /*flex-direction; row -reverse, invierte el orden */
+        flex-direction: row;
+}
