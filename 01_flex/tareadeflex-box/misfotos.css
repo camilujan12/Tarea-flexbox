@@ -12,12 +12,9 @@ h1{
     color: rgb(131, 12, 12);
     font-size: 35px;
     text-align: center;
-   /* margin: 15px; */
-    
 }
 .padre{
     display: flex;
-    /*flex -direction; column; en columna */
-    /*flex-direction; row -reverse, invierte el orden */
-        flex-direction: row;
+    flex-direction: row;
+    
 }

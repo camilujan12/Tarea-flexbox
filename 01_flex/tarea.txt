@@ -1,0 +1,6 @@
+tarea de flex-box
+1. crear un archivo  nuevo llamado misfotos.html
+2. crear un archivo nuevo llamado misfotos.css
+3.vincular los archivos y agregale titulo a la tarea
+4. crearun contenedor padre y como hijos agregale las imagenes
+5. acomodar las imagnes con flexbox en el formato que dessean
