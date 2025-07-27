@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(176, 128, 221);
+}
+h1{
+    text-align: center;
+}
+.hijo{
+
+width:120px ;
+height:120px;
+border:2px solid rgb(0, 0, 0);
+color: aliceblue;
+background-color: rgb(138, 255, 255);
+font-size: 35px;
+text-align: center;
+margin: 25px;
+}
+.padre{
+    display: flex;
+    flex-direction: row;
+}
+
