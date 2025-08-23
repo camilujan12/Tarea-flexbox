@@ -9,7 +9,7 @@ h1{
 width:120px ;
 height:120px;
 border:2px solid rgb(0, 0, 0);
-color: aliceblue;
+color: rgb(60, 149, 228);
 background-color: rgb(138, 255, 255);
 font-size: 35px;
 text-align: center;
@@ -18,5 +18,14 @@ margin: 25px;
 .padre{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+}
+.padreDos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+p{
+    width: 295px;
 }
 
