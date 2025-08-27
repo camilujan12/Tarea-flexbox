@@ -1,0 +1,9 @@
+body{
+ background-color: rgb(157, 122, 189);
+/*cambiamos la letra*/
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
