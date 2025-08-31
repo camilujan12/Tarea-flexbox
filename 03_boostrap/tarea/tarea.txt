@@ -1,0 +1,9 @@
+ 1. Crear otra página con el nombre de sucursales. html
+2. agregar links de cdn en bootstrap
+3. agregar una barra de navegación a elección
+4.Cambiar los links para que funcione la barra de navegación
+5. Colocar la imagen de una empresa cualquiera y agregar la dirección ,horario de atencion,
+número de contacto,redes sociales
+
+Entrega:28/08/2025
+-Enviar link al Discord
